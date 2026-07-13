@@ -5,7 +5,8 @@
       "namespace": "android_app",
       "package_name": "com.appolinaire_sdg.LeCoinBiz",
       "sha256_cert_fingerprints": [
-        "37:54:5F:84:E1:AB:34:C7:C1:88:B6:54:CD:62:E6:B5:EA:CB:64:2A:71:E3:33:2D:39:0D:E6:AE:11:10:0B:80"
+        "37:54:5F:84:E1:AB:34:C7:C1:88:B6:54:CD:62:E6:B5:EA:CB:64:2A:71:E3:33:2D:39:0D:E6:AE:11:10:0B:80",
+        "4D:8A:01:4D:B3:CD:FD:7E:5A:83:A5:01:91:DB:71:5A:AF:B2:FF:AF:0F:AA:EB:9E:16:89:5A:A1:B5:A1:A5:44"
       ]
     }
   },
