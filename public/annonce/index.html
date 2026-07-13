@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Annonce LeCoinBiz</title>
+  </head>
+  <body>
+    <p>Redirection vers l'application LeCoinBiz...</p>
+    <script>
+      var playStoreUrl =
+        "https://play.google.com/store/apps/details?id=com.appolinaire_sdg.LeCoinBiz";
+      var ua = navigator.userAgent || navigator.vendor;
+
+      if (/android/i.test(ua)) {
+        window.location.href = playStoreUrl;
+      } else if (/iPad|iPhone|iPod/.test(ua)) {
+        window.location.href = "https://lecoinbiz.com";
+      } else {
+        window.location.href = "https://lecoinbiz.com";
+      }
+    </script>
+  </body>
+</html>

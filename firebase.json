@@ -1,0 +1,15 @@
+{
+  "hosting": {
+    "public": "public",
+    "ignore": ["firebase.json", "**/.DS_Store", "**/node_modules/**"],
+    "rewrites": [
+      {
+        "source": "/annonce/**",
+        "function": {
+          "functionId": "adOgPage",
+          "region": "europe-southwest1"
+        }
+      }
+    ]
+  }
+}

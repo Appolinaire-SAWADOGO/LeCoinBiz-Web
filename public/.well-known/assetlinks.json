@@ -1,0 +1,23 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.appolinaire_sdg.LeCoinBiz",
+      "sha256_cert_fingerprints": [
+        "37:54:5F:84:E1:AB:34:C7:C1:88:B6:54:CD:62:E6:B5:EA:CB:64:2A:71:E3:33:2D:39:0D:E6:AE:11:10:0B:80"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.appolinaire_sdg.LeCoinBiz.dev",
+      "sha256_cert_fingerprints": [
+        "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C",
+        "01:3A:B9:5B:B1:A1:64:B5:35:E9:3D:16:95:C5:FC:51:13:19:1A:08:97:E8:CF:2B:8B:9C:95:6D:ED:67:68:5F"
+      ]
+    }
+  }
+]
